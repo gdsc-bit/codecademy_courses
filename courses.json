@@ -68,6 +68,45 @@
     "difficulty" : "beginner",
     "module_number" : 31,
     "certification" : "paid"
+  },
+  {
+    "id" :  8,
+    "platform" : "codecademy",
+    "free_course" : "yes",
+    "course_name" : "Intro to Machine Learning",
+    "link" : "https://www.codecademy.com/learn/machine-learning",
+    "difficulty" : "intermediate",
+    "module_number" : 11,
+    "certification" : "paid"
+  },
+  {
+    "id" :  9,
+    "platform" : "codecademy",
+    "free_course" : "yes",
+    "course_name" : "Build a Machine Learning Model with Python",
+    "link" : "https://codecademy.com/learn/paths/machine-learning",
+    "difficulty" : "intermediate",
+    "module_number" : 11,
+    "certification" : "paid"
+  },
+  {
+    "id" :  10,
+    "platform" : "codecademy",
+    "free_course" : "no",
+    "course_name" : "Learn Python 3",
+    "link" : "https://www.codecademy.com/learn/learn-python-3",
+    "difficulty" : "beginner",
+    "module_number" : 13,
+    "certification" : "free"
+  },
+  {
+    "id" :  11,
+    "platform" : "codecademy",
+    "free_course" : "no",
+    "course_name" : "Build Chatbots with Python",
+    "link" : "https://www.codecademy.com/learn/paths/build-chatbots-with-python",
+    "difficulty" : "beginner",
+    "module_number" : 6,
+    "certification" : "paid"
   }
-
 ]
