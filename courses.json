@@ -48,5 +48,15 @@
     "difficulty" : "beginner",
     "module_number" : 1,
     "certification" : "paid"
+  },
+  {
+    "id" :  6,
+    "platform" : "codecademy",
+    "free_course" : "yes",
+    "course_name" : "Learn MongoDB",
+    "link" : "https://www.codecademy.com/learn/learn-mongodb",
+    "difficulty" : "beginner",
+    "module_number" : 15,
+    "certification" : "paid"
   }
 ]
