@@ -48,5 +48,16 @@
     "difficulty" : "beginner",
     "module_number" : 1,
     "certification" : "paid"
-  }
+  },
+  {
+    "id" :  6,
+    "platform" : "coursera",
+    "free_course" : "yes",
+    "course_name" : "HTML, CSS, and Javascript for Web Developers",
+    "link" : "https://www.coursera.org/learn/html-css-javascript-for-web-developers",
+    "difficulty" : "beginner",
+    "module_number" : 5,
+    "certification" : "free"
+  },
+  
 ]
