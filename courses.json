@@ -38,5 +38,15 @@
     "difficulty" : "beginner",
     "module_number" : 1,
     "certification" : "paid"
+  },
+  {
+    "id" :  5,
+    "platform" : "codecademy",
+    "free_course" : "yes",
+    "course_name" : "Intro to OpenAI GPT API",
+    "link" : "https://www.codecademy.com/learn/intro-to-open-ai-gpt-api",
+    "difficulty" : "beginner",
+    "module_number" : 1,
+    "certification" : "paid"
   }
 ]
