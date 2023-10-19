@@ -108,5 +108,16 @@
     "difficulty" : "beginner",
     "module_number" : 6,
     "certification" : "paid"
+  },
+  {
+    "id" :  16,
+    "platform" : "codecademy",
+    "free_course" : "yes",
+    "course_name" : "Intro to SQL",
+    "link" : "https://www.codecademy.com/learn/intro-to-sql",
+    "difficulty" : "beginner",
+    "module_number" : 2,
+    "certification" : "free"
   }
+  
 ]
