@@ -108,5 +108,15 @@
     "difficulty" : "beginner",
     "module_number" : 6,
     "certification" : "paid"
+  },
+  {
+    "id" :  12,
+    "platform" : "codecademy",
+    "free_course" : "yes",
+    "course_name" : "Learn JavaScript",
+    "link" : "https://www.codecademy.com/learn/introduction-to-javascript",
+    "difficulty" : "beginner",
+    "module_number" : 11,
+    "certification" : "free"
   }
 ]
