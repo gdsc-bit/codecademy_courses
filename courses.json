@@ -39,4 +39,14 @@
     "module_number" : 8,
     "certification" : "paid"
   }
+  {
+    "id" :  5,
+    "platform" : "codecademy",
+    "free_course" : "yes",
+    "course_name" : "Prompt Engineering for Marketing",
+    "link" : "https://www.codecademy.com/learn/prompt-engineering-for-marketing",
+    "difficulty" : "beginner",
+    "module_number" : 8,
+    "certification" : "paid"
+  }
 ]
