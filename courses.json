@@ -29,4 +29,14 @@
     "module_number" : 3,
     "certification" : "paid"
   }
+  {
+    "id" :  4,
+    "platform" : "codecademy",
+    "free_course" : "yes",
+    "course_name" : "Intro to ChatGPT",
+    "link" : "https://www.codecademy.com/learn/intro-to-chatgpt",
+    "difficulty" : "beginner",
+    "module_number" : 8,
+    "certification" : "paid"
+  }
 ]
