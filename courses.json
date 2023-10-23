@@ -128,6 +128,17 @@
     "difficulty" : "beginner",
     "module_number" : 11,
     "certification" : "free"
+  },
+  {
+    "id" :  17,
+    "platform" : "codecademy",
+    "free_course" : "yes",
+    "course_name" : "Prompt Engineering for Marketing",
+    "link" : "https://www.codecademy.com/learn/prompt-engineering-for-marketing",
+    "difficulty" : "beginner",
+    "module_number" : 25,
+    "certification" : "free"
   }
+
   
 ]
