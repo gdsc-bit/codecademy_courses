@@ -129,7 +129,17 @@
     "module_number" : 11,
     "certification" : "free"
   },
-    {
+  {
+    "id" :  14,
+    "platform" : "codecademy",
+    "free_course" : "yes",
+    "course_name" : "Intro to ChatGPT",
+    "link" : "https://www.codecademy.com/learn/intro-to-chatgpt",
+    "difficulty" : "beginner",
+    "module_number" : 18,
+    "certification" : "free"
+  },
+  {
     "id" :  15,
     "platform" : "codecademy",
     "free_course" : "yes",
@@ -137,7 +147,6 @@
     "link" : "https://www.codecademy.com/learn/case-study-debug-python-code-with-chat-gpt",
     "difficulty" : "beginner",
     "module_number" : 16,
-    "certification" : "free"
+    "certification" : "paid"
   }
-  
 ]
