@@ -129,7 +129,7 @@
     "module_number" : 11,
     "certification" : "free"
   },
-    {
+  {
     "id" :  14,
     "platform" : "codecademy",
     "free_course" : "yes",
@@ -138,8 +138,15 @@
     "difficulty" : "beginner",
     "module_number" : 18,
     "certification" : "free"
+  },
+  {
+    "id" :  15,
+    "platform" : "codecademy",
+    "free_course" : "yes",
+    "course_name" : "Debug Python Code with ChatGPT Case Study",
+    "link" : "https://www.codecademy.com/learn/case-study-debug-python-code-with-chat-gpt",
+    "difficulty" : "beginner",
+    "module_number" : 16,
+    "certification" : "paid"
   }
-  
-
-  
 ]
