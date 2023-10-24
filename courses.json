@@ -188,5 +188,15 @@
     "difficulty" : "beginner",
     "module_number" : 2,
     "certification" : "paid"
+  },
+  {
+    "id" :  20,
+    "platform" : "codecademy",
+    "free_course" : "yes",
+    "course_name" : "Learn Java: Object-Oriented Programming",
+    "link" : "https://www.codecademy.com/learn/learn-java-object-oriented-programming",
+    "difficulty" : "beginner",
+    "module_number" : 2,
+    "certification" : "paid"
   }
 ]
