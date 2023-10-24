@@ -168,5 +168,15 @@
     "difficulty" : "beginner",
     "module_number" : 25,
     "certification" : "free"
+  },
+  {
+    "id" :  18,
+    "platform" : "codecademy",
+    "free_course" : "yes",
+    "course_name" : "Create REST APIs with Spring and Java",
+    "link" : "https://www.codecademy.com/learn/paths/create-rest-apis-with-spring-and-java",
+    "difficulty" : "beginner",
+    "module_number" : 9,
+    "certification" : "paid"
   }
 ]
