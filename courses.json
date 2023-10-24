@@ -178,5 +178,15 @@
     "difficulty" : "beginner",
     "module_number" : 9,
     "certification" : "paid"
+  },
+  {
+    "id" :  19,
+    "platform" : "codecademy",
+    "free_course" : "yes",
+    "course_name" : "Learn C: Conditionals and Loops",
+    "link" : "https://www.codecademy.com/learn/learn-c-conditionals-and-loops",
+    "difficulty" : "beginner",
+    "module_number" : 2,
+    "certification" : "paid"
   }
 ]
