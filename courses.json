@@ -208,5 +208,15 @@
     "difficulty" : "Intermediate",
     "module_number" : 2,
     "certification" : "paid"
+  },
+  {
+    "id" :  22,
+    "platform" : "codecademy",
+    "free_course" : "free",
+    "course_name" : "Getting Started with Python for Data Science",
+    "link" : "https://www.codecademy.com/learn/getting-started-with-python-for-data-science",
+    "difficulty" : "beginner",
+    "module_number" : 3,
+    "certification" : "paid"
   }
 ]
