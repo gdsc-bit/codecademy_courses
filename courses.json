@@ -198,5 +198,15 @@
     "difficulty" : "beginner",
     "module_number" : 2,
     "certification" : "paid"
+  },
+  {
+    "id" :  21,
+    "platform" : "codecademy",
+    "free_course" : "paid",
+    "course_name" : "Learn Bootstrap",
+    "link" : "https://www.codecademy.com/learn/learn-bootstrap",
+    "difficulty" : "Intermediate",
+    "module_number" : 2,
+    "certification" : "paid"
   }
 ]
