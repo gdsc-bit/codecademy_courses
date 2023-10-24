@@ -148,5 +148,15 @@
     "difficulty" : "beginner",
     "module_number" : 16,
     "certification" : "paid"
+  },
+  {
+    "id" :  16,
+    "platform" : "codecademy",
+    "free_course" : "yes",
+    "course_name" : "Intro to Generative AI",
+    "link" : "https://www.codecademy.com/learn/intro-to-generative-ai",
+    "difficulty" : "beginner",
+    "module_number" : 18,
+    "certification" : "free"
   }
 ]
