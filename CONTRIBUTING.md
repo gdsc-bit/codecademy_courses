@@ -1,7 +1,7 @@
 # Codecademy Courses Database
 This comprises of data on courses assisting a noesis on technical subjects
 
-## Procedure :
+#### Procedure ;;;;;;;;;:
 1. Fork this repository and edit as per the following rules.
 2. Once the infomration is added and is in a proper structured format, create a pull request.
 3. Wait for it to get merged !
