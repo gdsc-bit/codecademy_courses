@@ -1,4 +1,5 @@
 [
+
   {
     "id" :  1,
     "platform" : "codecademy",
@@ -217,6 +218,16 @@
     "link" : "https://www.codecademy.com/learn/getting-started-with-python-for-data-science",
     "difficulty" : "beginner",
     "module_number" : 3,
+    "certification" : "paid"
+  },
+  {
+    "id" :  23,
+    "platform" : "PHYSICS",
+    "free_course" : "no",
+    "course_name" : "Quantum Mechanics",
+    "link" : "https://physics.com",
+    "difficulty" : "advanced",
+    "module_number" : 8,
     "certification" : "paid"
   }
 ]
