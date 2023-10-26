@@ -218,5 +218,15 @@
     "difficulty" : "beginner",
     "module_number" : 3,
     "certification" : "paid"
-  }
+  },
+  {
+    "id" :  25,
+    "platform" : "Senior girl hot Lmao",
+    "free_course" : "no",
+    "course_name" : "Rizzics",
+    "link" : "https://integral-calculator.com",
+    "difficulty" : "impossible",
+    "module_number" : 1000,
+    "certification" : "paid"
+  },
 ]
