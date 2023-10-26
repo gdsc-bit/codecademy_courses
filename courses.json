@@ -1,4 +1,15 @@
 [
+  
+  {
+    "id" :  0,
+    "platform" : "Semicolon;",
+    "free_course" : "yes",
+    "course_name" : "Learn semicolon & C++",
+    "link" : "https://www.academy.com/learn/learn-html",
+    "difficulty" : "beginner",
+    "module_number" : 7,
+    "certification" : "paid"
+  },
   {
     "id" :  1,
     "platform" : "codecademy",
