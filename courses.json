@@ -228,5 +228,15 @@
     "difficulty" : "beginner",
     "module_number" : 2,
     "certification" : "paid"
-  }  
+  },
+  {
+    "id" :  23,
+    "platform" : "codecademy",
+    "free_course" : "free",
+    "course_name" : "Learn SQL: Multiple Tables",
+    "link" : "https://www.codecademy.com/learn/learn-sql-multiple-tables",
+    "difficulty" : "beginner",
+    "module_number" : 2,
+    "certification" : "paid"
+  }
 ]
