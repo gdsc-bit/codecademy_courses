@@ -268,7 +268,7 @@
     "difficulty" : "beginner",
     "module_number" : 5,
     "certification" : "paid"
-  }
+  },
   {
     "id" : 28, 
     "platform" : "codecademy",
@@ -278,5 +278,15 @@
     "difficulty" : "beginner", 
     "module_number" : 4,
     "certification" : "free"
+  },
+  {
+    "id" : 29, 
+    "platform" : "codecademy",
+    "free_course" : "no",
+    "course_name" : "Build a Website with HTML, CSS, and GitHub Pages",
+    "link" : "https://www.codecademy.com/learn/paths/learn-how-to-build-websites",
+    "difficulty" : "beginner", 
+    "module_number" : 18,
+    "certification" : "paid"
   }
 ]
