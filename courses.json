@@ -309,16 +309,6 @@
     "module_number" : 2,
     "certification" : "free"
   },
-  {
-    "id" :  24,
-    "platform" : "Free-Chicks (Physics)",
-    "free_course" : "yes",
-    "course_name" : "Quantum Mechanics",
-    "link" : "https://physics.com",
-    "difficulty" : "advanced",
-    "module_number" : 81,
-    "certification" : "free"
-  },
    {
     "id" : 30, 
     "platform" : "codecademy",
