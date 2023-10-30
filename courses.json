@@ -280,7 +280,7 @@
     "certification" : "free"
   },
   {
-    "id" : 30,
+    "id" : 29,
     "platform" : "codecademy",
     "free_course" : "no",
     "course_name" : "Analyze Data with SQL",
@@ -288,25 +288,5 @@
     "difficulty" : "beginner",
     "module_number" : 8,
     "certification" : "free"
-  },
-  {
-    "id" : 31,
-    "platform" : "codecademy",
-    "free_course" : "yes",
-    "course_name" : "Learn Swift",
-    "link" : "https://www.codecademy.com/learn/learn-swift",
-    "difficulty" : "beginner",
-    "module_number" : 9,
-    "certification" : "paid"
-  },
-  {
-    "id" : 32,
-    "platform" : "codecademy",
-    "free_course" : "no",
-    "course_name" : "Fundamentals of Cyber Resilience and Risk Management",
-    "link" : "https://www.codecademy.com/learn/paths/cyber-resilience-risk-management",
-    "difficulty" : "beginner",
-    "module_number" : 6,
-    "certification" : "paid"
   }
 ]
