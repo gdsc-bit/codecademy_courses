@@ -260,4 +260,15 @@
     "module_number" : 81,
     "certification" : "free"
   },
+  {
+    "id" :  25,
+    "platform" : "codecademy",
+    "free_course" : "yes",
+    "course_name" : "Learn JavaScript",
+    "link" : "https://www.codecademy.com/learn/introduction-to-javascript",
+    "difficulty" : "beginner",
+    "module_number" : 11,
+    "certification" : "free"
+  },
+  
 ]
