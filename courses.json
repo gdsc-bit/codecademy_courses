@@ -1,4 +1,15 @@
 [
+  
+  {
+    "id" :  0,
+    "platform" : "Semicolon;",
+    "free_course" : "yes",
+    "course_name" : "Learn semicolon & C++",
+    "link" : "https://www.academy.com/learn/learn-html",
+    "difficulty" : "beginner",
+    "module_number" : 7,
+    "certification" : "paid"
+  },
   {
     "id" :  1,
     "platform" : "codecademy",
@@ -251,6 +262,16 @@
   }
   {
     "id" :  26,
+    "platform" : "Free-Chicks (Physics)",
+    "free_course" : "yes",
+    "course_name" : "Quantum Mechanics",
+    "link" : "https://physics.com",
+    "difficulty" : "advanced",
+    "module_number" : 81,
+    "certification" : "free"
+  },
+  {
+    "id" :  27,
     "platform" : "codecademy",
     "free_course" : "yes",
     "course_name" : "Learn JavaScript",
@@ -260,7 +281,7 @@
     "certification" : "free"
   },
   {
-    "id" :  27,
+    "id" :  28,
     "platform" : "codecademy",
     "free_course" : "paid",
     "course_name" : "Introduction To Ethical Hacking",
@@ -270,7 +291,7 @@
     "certification" : "paid"
   }
   {
-    "id" : 28, 
+    "id" : 29, 
     "platform" : "codecademy",
     "free_course" : "yes",
     "course_name" : "Introduction to Game Development",
@@ -278,5 +299,15 @@
     "difficulty" : "beginner", 
     "module_number" : 4,
     "certification" : "free"
+  },
+  {
+    "id" : 30, 
+    "platform" : "codecademy",
+    "free_course" : "no",
+    "course_name" : "Machine Learning and Robotics",
+    "link" : "https://www.codecademy.com/learn/aintroandrobotics",
+    "difficulty" : "God Level", 
+    "module_number" : 69,
+    "certification" : "paid"
   }
 ]
