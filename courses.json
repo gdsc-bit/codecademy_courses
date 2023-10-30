@@ -233,6 +233,16 @@
   {
     "id" :  23,
     "platform" : "codecademy",
+    "free_course" : "yes",
+    "course_name" : "Learn HTML",
+    "link" : "https://www.codecademy.com/learn/learn-html",
+    "difficulty" : "beginner",
+    "module_number" : 6,
+    "certification" : "paid"
+  },
+  {
+    "id" :  24,
+    "platform" : "codecademy",
     "free_course" : "free",
     "course_name" : "Creating Quick STEAM Activities with ChatGPT Case Study",
     "link" : "https://www.codecademy.com/learn/creating-quick-steam-activities-with-chat-gpt-case-study",
@@ -241,7 +251,7 @@
     "certification" : "paid"
   },
   {
-    "id" :  23,
+    "id" :  25,
     "platform" : "codecademy",
     "free_course" : "free",
     "course_name" : "Learn SQL: Multiple Tables",
@@ -251,7 +261,7 @@
     "certification" : "paid"
   }
   {
-    "id" :  24,
+    "id" :  26,
     "platform" : "Free-Chicks (Physics)",
     "free_course" : "yes",
     "course_name" : "Quantum Mechanics",
@@ -261,7 +271,7 @@
     "certification" : "free"
   },
   {
-    "id" :  25,
+    "id" :  27,
     "platform" : "codecademy",
     "free_course" : "yes",
     "course_name" : "Learn JavaScript",
@@ -270,5 +280,24 @@
     "module_number" : 11,
     "certification" : "free"
   },
-  
+  {
+    "id" :  28,
+    "platform" : "codecademy",
+    "free_course" : "paid",
+    "course_name" : "Introduction To Ethical Hacking",
+    "link" : "https://www.codecademy.com/learn/introduction-to-ethical-hacking",
+    "difficulty" : "beginner",
+    "module_number" : 5,
+    "certification" : "paid"
+  }
+  {
+    "id" : 29, 
+    "platform" : "codecademy",
+    "free_course" : "yes",
+    "course_name" : "Introduction to Game Development",
+    "link" : "https://www.codecademy.com/learn/introduction-to-game-development",
+    "difficulty" : "beginner", 
+    "module_number" : 4,
+    "certification" : "free"
+  }
 ]
