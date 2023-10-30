@@ -223,6 +223,16 @@
     "id" :  23,
     "platform" : "codecademy",
     "free_course" : "free",
+    "course_name" : "Creating Quick STEAM Activities with ChatGPT Case Study",
+    "link" : "https://www.codecademy.com/learn/creating-quick-steam-activities-with-chat-gpt-case-study",
+    "difficulty" : "beginner",
+    "module_number" : 2,
+    "certification" : "paid"
+  },
+  {
+    "id" :  23,
+    "platform" : "codecademy",
+    "free_course" : "free",
     "course_name" : "Learn SQL: Multiple Tables",
     "link" : "https://www.codecademy.com/learn/learn-sql-multiple-tables",
     "difficulty" : "beginner",
