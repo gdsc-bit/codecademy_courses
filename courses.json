@@ -270,4 +270,14 @@
     "module_number" : 81,
     "certification" : "free"
   },
+  {
+    "id" :  27,
+    "platform" : "codecademy",
+    "free_course" : "paid",
+    "course_name" : "Introduction To Ethical Hacking",
+    "link" : "https://www.codecademy.com/learn/introduction-to-ethical-hacking",
+    "difficulty" : "beginner",
+    "module_number" : 5,
+    "certification" : "paid"
+  }
 ]
