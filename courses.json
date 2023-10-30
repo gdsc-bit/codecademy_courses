@@ -1,4 +1,15 @@
 [
+  
+  {
+    "id" :  0,
+    "platform" : "Semicolon;",
+    "free_course" : "yes",
+    "course_name" : "Learn semicolon & C++",
+    "link" : "https://www.academy.com/learn/learn-html",
+    "difficulty" : "beginner",
+    "module_number" : 7,
+    "certification" : "paid"
+  },
   {
     "id" :  1,
     "platform" : "codecademy",
@@ -221,6 +232,46 @@
   },
   {
     "id" :  23,
+    "platform" : "codecademy",
+    "free_course" : "yes",
+    "course_name" : "Learn HTML",
+    "link" : "https://www.codecademy.com/learn/learn-html",
+    "difficulty" : "beginner",
+    "module_number" : 6,
+    "certification" : "paid"
+  },
+  {
+    "id" :  24,
+    "platform" : "codecademy",
+    "free_course" : "free",
+    "course_name" : "Creating Quick STEAM Activities with ChatGPT Case Study",
+    "link" : "https://www.codecademy.com/learn/creating-quick-steam-activities-with-chat-gpt-case-study",
+    "difficulty" : "beginner",
+    "module_number" : 2,
+    "certification" : "paid"
+  },
+  {
+    "id" :  25,
+    "platform" : "codecademy",
+    "free_course" : "free",
+    "course_name" : "Learn SQL: Multiple Tables",
+    "link" : "https://www.codecademy.com/learn/learn-sql-multiple-tables",
+    "difficulty" : "beginner",
+    "module_number" : 2,
+    "certification" : "paid"
+  }
+  {
+    "id" :  26,
+    "platform" : "Free-Chicks (Physics)",
+    "free_course" : "yes",
+    "course_name" : "Quantum Mechanics",
+    "link" : "https://physics.com",
+    "difficulty" : "advanced",
+    "module_number" : 81,
+    "certification" : "free"
+  },
+  {
+    "id" :  27,
     "platform" : "codecademy",
     "free_course" : "paid",
     "course_name" : "Introduction To Ethical Hacking",
