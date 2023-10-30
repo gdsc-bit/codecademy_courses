@@ -259,7 +259,7 @@
     "difficulty" : "beginner",
     "module_number" : 2,
     "certification" : "paid"
-  }
+  },
   {
     "id" :  26,
     "platform" : "Free-Chicks (Physics)",
@@ -289,7 +289,7 @@
     "difficulty" : "beginner",
     "module_number" : 5,
     "certification" : "paid"
-  }
+  },
   {
     "id" : 29, 
     "platform" : "codecademy",
@@ -298,6 +298,16 @@
     "link" : "https://www.codecademy.com/learn/introduction-to-game-development",
     "difficulty" : "beginner", 
     "module_number" : 4,
+    "certification" : "free"
+  },
+  {
+    "id" : 30,
+    "platform" : "codecademy",
+    "free_course" : "no",
+    "course_name" : "Analyze Data with SQL",
+    "link" : "https://www.codecademy.com/learn/paths/analyze-data-with-sql",
+    "difficulty" : "beginner",
+    "module_number" : 8,
     "certification" : "free"
   }
 ]
