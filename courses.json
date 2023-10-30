@@ -318,5 +318,16 @@
     "difficulty" : "Beginner", 
     "module_number" : 2,
     "certification" : "paid"
-  }
+  },
+  {
+    "id" : 31, 
+    "platform" : "codecademy",
+    "free_course" : "yes",
+    "course_name" : "Create a Back-End App with JavaScript",
+    "link" : "https://www.codecademy.com/learn/paths/create-a-back-end-app-with-javascript",
+    "difficulty" : "Beginner", 
+    "module_number" : 29,
+    "certification" : "free"
+  },
+  
 ]
