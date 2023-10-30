@@ -289,4 +289,24 @@
     "module_number" : 18,
     "certification" : "paid"
   }
+  {
+    "id" : 29, 
+    "platform" : "codecademy",
+    "free_course" : "yes",
+    "course_name" : "Securing Express Applications",
+    "link" : "https://www.codecademy.com/learn/paths/securing-express-applications",
+    "difficulty" : "intermediate", 
+    "module_number" : 2,
+    "certification" : "free"
+  }
+   {
+    "id" : 30, 
+    "platform" : "codecademy",
+    "free_course" : "yes",
+    "course_name" : "How to Make a Website with NameCheap",
+    "link" : "https://www.codecademy.com/learn/make-a-website",
+    "difficulty" : "Beginner", 
+    "module_number" : 2,
+    "certification" : "paid"
+  }
 ]
