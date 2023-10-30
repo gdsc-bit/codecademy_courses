@@ -248,7 +248,7 @@
     "difficulty" : "beginner",
     "module_number" : 2,
     "certification" : "paid"
-  }
+  },
   {
     "id" :  26,
     "platform" : "codecademy",
@@ -280,6 +280,16 @@
     "certification" : "free"
   },
   {
+    "id" : 29,
+    "platform" : "codecademy",
+    "free_course" : "no",
+    "course_name" : "Analyze Data with SQL",
+    "link" : "https://www.codecademy.com/learn/paths/analyze-data-with-sql",
+    "difficulty" : "beginner",
+    "module_number" : 8,
+    "certification" : "free"
+  },
+  {
     "id" : 29, 
     "platform" : "codecademy",
     "free_course" : "no",
@@ -288,7 +298,7 @@
     "difficulty" : "beginner", 
     "module_number" : 18,
     "certification" : "paid"
-  }
+  },
   {
     "id" : 29, 
     "platform" : "codecademy",
@@ -298,7 +308,7 @@
     "difficulty" : "intermediate", 
     "module_number" : 2,
     "certification" : "free"
-  }
+  },
    {
     "id" : 30, 
     "platform" : "codecademy",
