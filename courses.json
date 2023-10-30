@@ -273,6 +273,16 @@
   {
     "id" :  27,
     "platform" : "codecademy",
+    "free_course" : "yes",
+    "course_name" : "Learn JavaScript",
+    "link" : "https://www.codecademy.com/learn/introduction-to-javascript",
+    "difficulty" : "beginner",
+    "module_number" : 11,
+    "certification" : "free"
+  },
+  {
+    "id" :  28,
+    "platform" : "codecademy",
     "free_course" : "paid",
     "course_name" : "Introduction To Ethical Hacking",
     "link" : "https://www.codecademy.com/learn/introduction-to-ethical-hacking",
@@ -281,7 +291,7 @@
     "certification" : "paid"
   }
   {
-    "id" : 22, 
+    "id" : 29, 
     "platform" : "codecademy",
     "free_course" : "yes",
     "course_name" : "Introduction to Game Development",
@@ -290,5 +300,4 @@
     "module_number" : 4,
     "certification" : "free"
   }
-  
 ]
