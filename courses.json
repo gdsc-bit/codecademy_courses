@@ -280,4 +280,15 @@
     "module_number" : 5,
     "certification" : "paid"
   }
+  {
+    "id" : 22, 
+    "platform" : "codecademy",
+    "free_course" : "yes",
+    "course_name" : "Introduction to Game Development",
+    "link" : "https://www.codecademy.com/learn/introduction-to-game-development",
+    "difficulty" : "beginner", 
+    "module_number" : 4,
+    "certification" : "free"
+  }
+  
 ]
