@@ -279,7 +279,7 @@
     "module_number" : 4,
     "certification" : "free"
   },
-   {
+  {
     "id" : 29,
     "platform" : "codecademy",
     "free_course" : "no",
@@ -309,7 +309,7 @@
     "module_number" : 2,
     "certification" : "free"
   },
-   {
+  {
     "id" : 32,
     "platform" : "codecademy",
     "free_course" : "yes",
