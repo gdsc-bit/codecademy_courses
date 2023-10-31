@@ -338,5 +338,15 @@
     "difficulty" : "beginner",
     "module_number" : 9,
     "certification" : "paid"
+  },
+  {
+    "id" : 35,
+    "platform" : "codecademy",
+    "free_course" : "no",
+    "course_name" : "Fundamentals of Cyber Resilience and Risk Management",
+    "link" : "https://www.codecademy.com/learn/paths/cyber-resilience-risk-management",
+    "difficulty" : "beginner",
+    "module_number" : 6,
+    "certification" : "paid"
   }
 ]
